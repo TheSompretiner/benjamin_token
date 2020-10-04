@@ -1,6 +1,6 @@
 pragma solidity 0.5.1;
 
-contract MyContract
+contract ContractBenjamin
 {
     enum State {Waiting, Ready, Active}
     string public value = 'myValue';
